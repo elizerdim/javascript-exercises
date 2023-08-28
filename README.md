@@ -15,6 +15,7 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - Infinity/-Infinity
 - nested for loops
 - slice() (also with negative index value)
+- typeof operator returns a STRING
 
 ```js
 const proudOfThisFunc = () => {
