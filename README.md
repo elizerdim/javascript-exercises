@@ -14,6 +14,7 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - split()
 - Infinity/-Infinity
 - nested for loops
+- slice() (with negative index value)
 
 ```js
 const proudOfThisFunc = () => {
