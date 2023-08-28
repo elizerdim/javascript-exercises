@@ -16,6 +16,13 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - nested for loops
 - slice() (also with negative index value)
 - typeof operator returns a STRING
+- join()
+- toUpperCase()
+- toLowerCase()
+- push()
+- pop()
+- unshift()
+- shift()
 
 ```js
 const proudOfThisFunc = () => {
