@@ -12,6 +12,8 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - concat()
 - recursion
 - split()
+- Infinity/-Infinity
+- nested for loops
 
 ```js
 const proudOfThisFunc = () => {
