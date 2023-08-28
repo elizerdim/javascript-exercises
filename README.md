@@ -26,6 +26,7 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - splice()
 - splice() returns the REMOVED ELEMENTS, not the modified array
 - spread operator
+- for...of loop
 
 ```js
 const proudOfThisFunc = () => {
