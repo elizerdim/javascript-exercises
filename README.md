@@ -27,6 +27,9 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - splice() returns the REMOVED ELEMENTS, not the modified array
 - spread operator
 - for...of loop
+- sort()
+- sort((a, b) => a - b) for numbers
+- indexOf()
 
 ```js
 const proudOfThisFunc = () => {
@@ -36,5 +39,5 @@ const proudOfThisFunc = () => {
 
 ## Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [sort()](https://www.w3schools.com/js/js_array_sort.asp) - sort() converts the elements of the array into strings and sorts them alphabetically in ascending order, mutating the array. Use sort((a, b) => a - b) to sort numerical values in ascending order or sort((a, b) => b - a) for descending order.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
