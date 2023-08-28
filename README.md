@@ -23,6 +23,9 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - pop()
 - unshift()
 - shift()
+- splice()
+- splice() returns the REMOVED ELEMENTS, not the modified array
+- spread operator
 
 ```js
 const proudOfThisFunc = () => {
