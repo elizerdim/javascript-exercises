@@ -38,12 +38,14 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - using conditionals inside loops
 - filter()
 - Regular Expressions
+- replace()
 - match()
 - switch
 - map()
 - charCodeAt()
 - String.fromCharCode()
 - forEach()
+- replaceAll()
 
 ```js
 const proudOfThisFunc = () => {
