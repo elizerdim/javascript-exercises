@@ -43,6 +43,7 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - map()
 - charCodeAt()
 - String.fromCharCode()
+- forEach()
 
 ```js
 const proudOfThisFunc = () => {
