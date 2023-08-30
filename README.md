@@ -36,6 +36,7 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - ! (logical NOT) operator
 - using conditionals inside loops
 - filter()
+- Regular Expressions
 
 ```js
 const proudOfThisFunc = () => {
