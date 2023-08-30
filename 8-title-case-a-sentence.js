@@ -15,7 +15,7 @@ console.log(titleCase("sHoRt AnD sToUt")); //"Short And Stout"
 console.log(titleCase("HERE IS MY HANDLE HERE IS MY SPOUT")); //"Here Is My Handle Here Is My Spout"
 
 
-//Here is a more sophisticated and advanced solution (not mine, but I know all the methods used here too)
+//Here is a more sophisticated and advanced solution (not mine, but I understand how it works)
 function titleCaseAlternative(str) {
   return str
     .toLowerCase()
