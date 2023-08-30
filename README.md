@@ -35,6 +35,7 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - includes()
 - ! (logical NOT) operator
 - using conditionals inside loops
+- filter()
 
 ```js
 const proudOfThisFunc = () => {
