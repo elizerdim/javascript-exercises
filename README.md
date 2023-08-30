@@ -9,6 +9,7 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 
 ## What I learned
 
+- for loop
 - concat()
 - recursion
 - split()
@@ -38,6 +39,7 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - filter()
 - Regular Expressions
 - match()
+- switch
 
 ```js
 const proudOfThisFunc = () => {
