@@ -15,5 +15,6 @@ function findLongestWordLength(str) {
   return longestWordLength;
 }
 
+//test here
 console.log(findLongestWordLength("The quick brown fox jumped over the lazy dog")); //6
 console.log(findLongestWordLength("What if we try a super-long word such as otorhinolaryngology")); //19

@@ -7,6 +7,7 @@ function spinalCase(str) {
     .toLowerCase()
 }
 
+//test here
 console.log(spinalCase("This Is Spinal Tap")); //this-is-spinal-tap
 console.log(spinalCase("thisIsSpinalTap")); //this-is-spinal-tap
 console.log(spinalCase("The_Andy_Griffith_Show")); //the-andy-griffith-show

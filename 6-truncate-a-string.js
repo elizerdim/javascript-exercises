@@ -8,6 +8,7 @@ function truncateString(str, num) {
   }
 }
 
+//test here
 console.log(truncateString("A-tisket a-tasket A green and yellow basket", 8)); //A-tisket...
 console.log(truncateString("Peter Piper picked a peck of pickled peppers", 11)); //Peter Piper...
 console.log(truncateString("A-tisket a-tasket A green and yellow basket", "A-tisket a-tasket A green and yellow basket".length)); //A-tisket a-tasket A green and yellow basket

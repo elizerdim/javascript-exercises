@@ -12,6 +12,7 @@ function reverseString(str) {
   return reversedStr;
 }
 
-console.log(reverseString("hello"));
-console.log(reverseString("Howdy"));
-console.log(reverseString("Greetings from Earth"));
+//test here
+console.log(reverseString("hello")); //olleh
+console.log(reverseString("Howdy")); //ydwoH
+console.log(reverseString("Greetings from Earth")); //htraE morf sgniteerG

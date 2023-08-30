@@ -54,6 +54,7 @@ function mutationAlternative(arr) {
   return true;
 }
 
+//test here
 console.log(mutationAlternative(["hello", "hey"])); //false
 console.log(mutationAlternative(["hello", "Hello"])); //true
 console.log(mutationAlternative(["zyxwvutsrqponmlkjihgfedcba", "qrstu"])); //true

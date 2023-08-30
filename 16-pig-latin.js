@@ -13,6 +13,7 @@ function translatePigLatin(str) {
     : str + "way"
 }
 
+//test here
 console.log(translatePigLatin("california")); //aliforniacay
 console.log(translatePigLatin("paragraphs")); //aragraphspay
 console.log(translatePigLatin("glove")); //oveglay

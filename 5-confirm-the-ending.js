@@ -6,6 +6,7 @@ function confirmEnding(str, target) {
   return str.slice(-target.length) === target;
 }
 
+//test here
 console.log(confirmEnding("Bastian", "n")); //true
 console.log(confirmEnding("Congratulation", "on")); //true
 console.log(confirmEnding("Connor", "n")); //false
