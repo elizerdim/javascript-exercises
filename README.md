@@ -40,6 +40,9 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - Regular Expressions
 - match()
 - switch
+- map()
+- charCodeAt()
+- String.fromCharCode()
 
 ```js
 const proudOfThisFunc = () => {
