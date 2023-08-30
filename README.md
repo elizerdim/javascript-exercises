@@ -46,6 +46,8 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - String.fromCharCode()
 - forEach()
 - replaceAll()
+- while
+- reduce()
 
 ```js
 const proudOfThisFunc = () => {
