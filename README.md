@@ -37,6 +37,7 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - using conditionals inside loops
 - filter()
 - Regular Expressions
+- match()
 
 ```js
 const proudOfThisFunc = () => {
