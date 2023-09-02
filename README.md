@@ -48,6 +48,7 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - replaceAll()
 - while
 - reduce()
+- label for continue/break
 
 ```js
 const proudOfThisFunc = () => {
