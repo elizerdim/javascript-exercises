@@ -53,6 +53,7 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - Array.isArray()
 - nested functions
 - closure
+- parseInt(str, baseOfStr)
 
 ```js
 const proudOfThisFunc = () => {
