@@ -21,7 +21,7 @@ console.log(uniteUnique([1, 3, 2, 3], [5, 2, 1, 4], [2, 1])); //[1, 3, 2, 5, 4]
 
 
 //This alternative solution uses the feature of indexOf() method that it only returns the index of the first occurrence in order to filter out the duplicates - not mine
-function uniteUnique() {
+function uniteUniqueAlternative() {
   return [...arguments]
     .flat()
     .filter((item, ind, arr) => arr.indexOf(item) === ind);

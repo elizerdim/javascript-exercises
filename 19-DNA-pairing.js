@@ -47,7 +47,7 @@ console.log(pairElement("CTCTA")); //[["C","G"],["T","A"],["C","G"],["T","A"],["
 
 // Here is a more elegant solution that uses an object -- I wish it was mine
 
-function pairElement(str) {
+function pairElementAlternative(str) {
   const pairs = {
     A: "T",
     T: "A",
