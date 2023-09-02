@@ -13,6 +13,7 @@ function sumFibs(num) {
     sequence.push(sequence[sequence.length - 1] + sequence[sequence.length - 2])
   };
 
+  //remove the last number from the array because the while loop goes beyond the num by one value
   if (sequence[sequence.length - 1] > num) sequence.pop();
 
   let oddNums = sequence.filter(number => number % 2 === 1);
