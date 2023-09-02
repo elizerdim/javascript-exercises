@@ -49,6 +49,7 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - while
 - reduce()
 - label for continue/break
+- every()
 
 ```js
 const proudOfThisFunc = () => {
