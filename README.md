@@ -50,6 +50,9 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - reduce()
 - label for continue/break
 - every()
+- Array.isArray()
+- nested functions
+- closure
 
 ```js
 const proudOfThisFunc = () => {
