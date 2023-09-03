@@ -16,7 +16,7 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - Infinity/-Infinity
 - nested for loops
 - slice() (also with negative index value)
-- typeof operator returns a STRING
+- typeof operator (returns a STRING)
 - join()
 - toUpperCase()
 - toLowerCase()
@@ -54,6 +54,8 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - nested functions
 - closure
 - parseInt(str, baseOfStr)
+- arguments (array-like object inside a function)
+- array destructuring
 
 ```js
 const proudOfThisFunc = () => {
