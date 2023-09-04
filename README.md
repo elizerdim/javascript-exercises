@@ -62,6 +62,9 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - Math.pow()
 - template literals
 - Object model
+- logical AND (&&) operator
+- logical OR (||) operator
+- toString()
 
 ```js
 const proudOfThisFunc = () => {
