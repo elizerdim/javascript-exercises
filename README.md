@@ -60,6 +60,8 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - Math.PI
 - Math.sqrt()
 - Math.pow()
+- template literals
+- Object model
 
 ```js
 const proudOfThisFunc = () => {
@@ -71,3 +73,4 @@ const proudOfThisFunc = () => {
 
 - [sort()](https://www.w3schools.com/js/js_array_sort.asp) - sort() converts the elements of the array into strings and sorts them alphabetically in ascending order, mutating the array. Use sort((a, b) => a - b) to sort numerical values in ascending order or sort((a, b) => b - a) for descending order.
 - [break/continue](https://javascript.info/while-for#breaking-the-loop) - 'break' exits the loop before the condition becomes falsy. 'continue' exits the current iteration and starts the next iteration without running the remaining code inside the code block.
+- [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain) - Object Model
