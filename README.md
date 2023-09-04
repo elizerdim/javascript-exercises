@@ -56,6 +56,10 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - parseInt(str, baseOfStr)
 - arguments (array-like object inside a function)
 - array destructuring
+- Math.round()
+- Math.PI
+- Math.sqrt()
+- Math.pow()
 
 ```js
 const proudOfThisFunc = () => {
