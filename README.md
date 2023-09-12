@@ -67,6 +67,7 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - toString()
 - test()
 - match()
+- toFixed() (for floating point precision in mathematical operations)
 
 ```js
 const proudOfThisFunc = () => {
