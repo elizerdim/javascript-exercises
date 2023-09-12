@@ -65,6 +65,8 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - logical AND (&&) operator
 - logical OR (||) operator
 - toString()
+- test()
+- match()
 
 ```js
 const proudOfThisFunc = () => {
