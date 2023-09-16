@@ -1,0 +1,17 @@
+{
+  "name": "javascript-exercises",
+  "version": "1.0.0",
+  "description": "These are some of the algorithm exercises that I completed to practice my JavaScript skills. They are from various resources such as freeCodeCamp, the Odin Project, LeetCode, JavaScript30, and Eloquent JavaScript.",
+  "main": "1-reverse-a-string.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

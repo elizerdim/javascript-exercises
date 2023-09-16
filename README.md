@@ -68,6 +68,18 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - test()
 - match()
 - toFixed() (for floating point precision in mathematical operations)
+- Date object
+- getFullYear()
+- getMonth()
+- getDate()
+- getHours()
+- getMinutes()
+- getSeconds()
+- getMilliseconds()
+- getDay()
+- Math.max()
+- Math.min()
+- reduce() with an array as the accumulator
 
 ```js
 const proudOfThisFunc = () => {
@@ -80,3 +92,4 @@ const proudOfThisFunc = () => {
 - [sort()](https://www.w3schools.com/js/js_array_sort.asp) - sort() converts the elements of the array into strings and sorts them alphabetically in ascending order, mutating the array. Use sort((a, b) => a - b) to sort numerical values in ascending order or sort((a, b) => b - a) for descending order.
 - [break/continue](https://javascript.info/while-for#breaking-the-loop) - 'break' exits the loop before the condition becomes falsy. 'continue' exits the current iteration and starts the next iteration without running the remaining code inside the code block.
 - [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain) - Object Model
+- [Jest](https://jestjs.io/) - JS Testing Framework
