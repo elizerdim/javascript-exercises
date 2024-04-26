@@ -81,12 +81,6 @@ These are some of the algorithm exercises that I completed to practice my JavaSc
 - Math.min()
 - reduce() with an array as the accumulator
 
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
 ## Useful resources
 
 - [sort()](https://www.w3schools.com/js/js_array_sort.asp) - sort() converts the elements of the array into strings and sorts them alphabetically in ascending order, mutating the array. Use sort((a, b) => a - b) to sort numerical values in ascending order or sort((a, b) => b - a) for descending order.
